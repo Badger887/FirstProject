@@ -11,4 +11,19 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/boxscene01.unity
     guid: 2a48496ba9073534d9c8d41d30a1c8ed
+  - enabled: 1
+    path: Assets/Scenes/SampleScene 2.unity
+    guid: 22a3161d69a2bad4097e0e438753ff69
+  - enabled: 1
+    path: Assets/Scenes/SampleScene 3.unity
+    guid: c10360694c1bf9d4abcc585bca5b9182
+  - enabled: 1
+    path: Assets/Scenes/boxscene02.unity
+    guid: b11854c1db2af03438be2325da48c709
+  - enabled: 1
+    path: Assets/Scenes/boxscene03.unity
+    guid: 02071a23107bab040a325b03f9c8a7e5
+  - enabled: 1
+    path: Assets/Scenes/Gamejam,gametitle.unity
+    guid: 4bd48ea3cbbda03449a88c115af476de
   m_configObjects: {}
